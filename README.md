@@ -7,5 +7,5 @@
  📬 Reach me at: https://www.linkedin.com/in/hanbin-lyu-026458328/
 
  Here’s a sample plot I made using R:
+ ![My Plot](Lizard.png)
 
-![My Plot](Rplot.png)
